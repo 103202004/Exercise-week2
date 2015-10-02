@@ -29,7 +29,7 @@ void draw()
   h %= 300; //eyes
   
   ellipse(200,200,100+w,100+h);
-  ellipse(200,200,100+w,100+h);
+  ellipse(300,200,100+w,100+h);
   
     
   }
