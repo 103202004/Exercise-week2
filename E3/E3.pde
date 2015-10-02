@@ -6,10 +6,10 @@ void setup()
 {
   size(640,480);
   background(255);
-  birdImg = loadImage("img/0.jpg");
-  catImg = loadImage("img/1.jpg");
-  lemonImg = loadImage("img/2.jpg");
-  animalImg = loadImage("img/3.jpg");
+  birdImg = loadImage("E3Pic/0.jpg");
+  catImg = loadImage("E3Pic/1.jpg");
+  lemonImg = loadImage("E3Pic/2.jpg");
+  animalImg = loadImage("E3Pic/3.jpg");
   
   x = 0;
 }
